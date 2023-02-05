@@ -12,5 +12,5 @@
   "tabela_album": "albums",
   "coluna_album": "album_name",
   "tabela_cancoes": "songs",
-  "coluna_cancoes": "song"
+  "coluna_cancoes": "song_name"
 }
